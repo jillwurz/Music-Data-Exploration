@@ -37,7 +37,7 @@ The project performs the following key tasks:
 
 # Top Tracks Comparison: Eric Prydz vs Pryda
 
-This project compares the top tracks of two aliases of the artist Eric Prydz: "Pryda" and "Eric Prydz." The comparison is done by retrieving the top tracks for each alias using the Spotify Web API, storing track information in DataFrames, and visualizing the data using a bar chart.
+This project compares the top tracks of two aliases of the artist Eric Prydz: **Pryda** and **Eric Prydz.** The comparison is done by retrieving the top tracks for each alias using the Spotify Web API, storing track information in DataFrames, and visualizing the data using a bar chart.
 
 ## Project Overview
 
