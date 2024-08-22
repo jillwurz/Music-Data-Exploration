@@ -24,7 +24,7 @@ This project uses the Spotify API to analyze and compare the top tracks, popular
 ## Project Overview
 
 The project performs the following key tasks:
-1. **Data Retrieval**: Fetches top tracks, popularity, and follower data for both Oliver Heldens and Hi-Lo using the Spotify API.
+1. **Data Retrieval**: Fetches top tracks, popularity, and follower data for both Oliver Heldens and HI-LO using the Spotify API.
 2. **Data Processing**: Organizes the retrieved data into Pandas DataFrames for analysis.
 3. **Visualization**: Creates comparative visualizations to explore the popularity and followers of the two aliases.
 
