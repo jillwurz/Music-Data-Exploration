@@ -17,6 +17,24 @@ This project aims to help festival goers plan their schedule for Tomorrowland Be
    - Display artist information that matches the selected filters.
 
 
+# Oliver Heldens vs Hi-Lo Using Spotipy
+
+This project uses the Spotify API to analyze and compare the top tracks, popularity, and follower counts of the artist Oliver Heldens under his two aliases: **Oliver Heldens** and **Hi-Lo**. The project involves retrieving data via the Spotify API, organizing it into DataFrames, and visualizing the results using Seaborn and Matplotlib.
+
+## Project Overview
+
+The project performs the following key tasks:
+1. **Data Retrieval**: Fetches top tracks, popularity, and follower data for both Oliver Heldens and Hi-Lo using the Spotify API.
+2. **Data Processing**: Organizes the retrieved data into Pandas DataFrames for analysis.
+3. **Visualization**: Creates comparative visualizations to explore the popularity and followers of the two aliases.
+
+## Features
+
+- **Comparison of Top Tracks**: Displays a bar chart comparing the popularity of top tracks for both aliases.
+- **Follower Count Comparison**: Visualizes the difference in follower counts between the two aliases.
+- **Popularity Comparison**: Compares the overall popularity of the aliases.
+
+
 # Top Tracks Comparison: Eric Prydz vs Pryda
 
 This project compares the top tracks of two aliases of the artist Eric Prydz: "Pryda" and "Eric Prydz." The comparison is done by retrieving the top tracks for each alias using the Spotify Web API, storing track information in DataFrames, and visualizing the data using a bar chart.
