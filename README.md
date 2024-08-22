@@ -42,7 +42,7 @@ This project compares the top tracks of two aliases of the artist Eric Prydz: **
 ## Project Overview
 
 This script uses the [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) library to interact with the Spotify Web API. It retrieves and compares the top tracks of two aliases for Eric Prydz:
-- Pryda
 - Eric Prydz
+- Pryda
 
 The comparison is visualized in a bar chart showing the popularity of tracks from both aliases.
