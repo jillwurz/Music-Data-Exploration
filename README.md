@@ -16,6 +16,10 @@ This project aims to help festival goers plan their schedule for Tomorrowland Be
    - Create an interactive dashboard using Dash that allows users to filter by day, stage, and popularity.
    - Display artist information that matches the selected filters.
 
+## Files 
+- `Lineup Guide.ipynb`
+- `Tomorrowland_W2_2024.xlsx`
+
 
 # Oliver Heldens vs HI-LO: Top Tracks, Followers, and Popularity Comparison
 
@@ -34,6 +38,8 @@ The project performs the following key tasks:
 - **Follower Count Comparison**: Visualizes the difference in follower counts between the two aliases.
 - **Popularity Comparison**: Compares the overall popularity of the aliases.
 
+## Files 
+- `Oliver_Heldens_HiLo.ipynb`
 
 # Eric Prydz vs Pryda: Top Tracks Comparison
 
@@ -46,3 +52,6 @@ This script uses the [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) librar
 - Pryda
 
 The comparison is visualized in a bar chart showing the popularity of tracks from both aliases.
+
+## Files 
+- `PrydzPryda.ipynb`
