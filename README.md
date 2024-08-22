@@ -17,7 +17,7 @@ This project aims to help festival goers plan their schedule for Tomorrowland Be
    - Display artist information that matches the selected filters.
 
 
-# Oliver Heldens vs Hi-Lo Using Spotipy
+# Top Tracks Comparison & Popularity Comparison: Oliver Heldens vs Hi-Lo
 
 This project uses the Spotify API to analyze and compare the top tracks, popularity, and follower counts of the artist Oliver Heldens under his two aliases: **Oliver Heldens** and **Hi-Lo**. The project involves retrieving data via the Spotify API, organizing it into DataFrames, and visualizing the results using Seaborn and Matplotlib.
 
