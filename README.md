@@ -21,13 +21,6 @@ This project aims to help festival goers plan their schedule for Tomorrowland Be
 
 This project compares the top tracks of two aliases of the artist Eric Prydz: "Pryda" and "Eric Prydz." The comparison is done by retrieving the top tracks for each alias using the Spotify Web API, storing track information in DataFrames, and visualizing the data using a bar chart.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Visualization](#visualization)
-- [License](#license)
-
 ## Project Overview
 
 This script uses the [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) library to interact with the Spotify Web API. It retrieves and compares the top tracks of two aliases for Eric Prydz:
