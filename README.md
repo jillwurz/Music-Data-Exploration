@@ -1,4 +1,4 @@
-# Festival Lineup Guide: Tomorrowland Belgium Weekend 2
+# Festival Lineup Guide: Tomorrowland Belgium W2 2024
 
 ## Overview
 
